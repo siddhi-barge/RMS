@@ -1,3 +1,2 @@
-# RMS
-http://localhost/project/home.php
+# RMS http://localhost/project/home.php
 
